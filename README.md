@@ -21,7 +21,7 @@
     Driver have name and vihecle and have Method:
     deliver(order) print summary and 
     change order status to delivered
-    
+
     DeliveryOrder
     create from customer having customer name and item
     Method: assign_driver(driver)
@@ -46,4 +46,7 @@
     |-iutput.txt
 
 # Some Error
-    In google doc in class customer there attribute address but i didn't put it in code because i didn't see any thing relate to address in output example
+    In google doc in class customer 
+    there attribute address but i didn't put it in code 
+    because i didn't see any thing relate 
+    to address in output example
