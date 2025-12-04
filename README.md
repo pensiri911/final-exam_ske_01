@@ -1,26 +1,34 @@
 # Create code for checking delivery
 
 # Project overview
-    This project is about writing oop coding to create code for checking delivery
+    This project is about writing oop 
+    coding to create code for checking delivery
     
 # Features
     we have class "Person", "Customer", "Driver", "DeliveryOrder"
-## Person
-    Person is mother class of "Customer" and "driver" have method introduce to show name
-## Customer
+
+    Person
+    Person is mother class of "Customer" and "driver" 
+    have method introduce to show name
+
+    Customer
     In this class have name and can use Method: introduce() 
     to show name 
     and have Method: place_order(item) 
     to create order type object with item
-## Driver
+
+    Driver
     Driver have name and vihecle and have Method:
-    deliver(order) print summary and change order status to delivered
-## DeliveryOrder
+    deliver(order) print summary and 
+    change order status to delivered
+    
+    DeliveryOrder
     create from customer having customer name and item
     Method: assign_driver(driver)
     add driver object
     Method: summary():
-    show order status if still prepare then show prepare summary if already deliver then show deliverd status
+    show order status if still prepare then show prepare summary 
+    if already deliver then show deliverd status
 
 # How to run
     create customer object first then create driver
