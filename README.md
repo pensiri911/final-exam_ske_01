@@ -26,4 +26,16 @@
     create customer object first then create driver
     can use introduce to check person name
     then we can use place_order from customer to order item
-    
+    add driver to order object first
+    use summary to check order status
+    use deliver(order) to change status of order object
+    use summary to check order status
+
+# Project structure
+    quiz_compro
+    |-quiz03.py
+    |-README.md
+    |-iutput.txt
+
+# Some Error
+    In google doc in class customer there attribute address but i didn't put it in code because i didn't see any thing relate to address in output example
